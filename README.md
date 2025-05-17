@@ -83,22 +83,38 @@ Compare individual or grouped feature distributions via:
 
 ## Example Screenshots 
 ## Landing Page 
+
 <img width="1272" alt="image" src="https://github.com/user-attachments/assets/72eedab5-d493-46f5-82bd-8203f47ae3f7" />
+
 ## Missing Value Handling Page 
+
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/562a56ed-3b70-421b-b257-0834ee56fdf9" />
+
 ## Synthetic Data Generation and Downloading CSV File 
+
 <img width="1277" alt="image" src="https://github.com/user-attachments/assets/61d66677-b849-4279-9894-11af37f6550f" />
 ## Descriptive Statistics Comparison 
+
 <img width="961" alt="image" src="https://github.com/user-attachments/assets/9cd6aa8d-d5c5-4383-8be7-bf57650d9de4" />
+
 ## Correlation Matrix 
+
 <img width="1022" alt="image" src="https://github.com/user-attachments/assets/1d170659-335c-4526-b1f4-9ba54851e891" />
+
 ## KS Test (Kolmogorov-Smirnov Test Results)
+
 <img width="979" alt="image" src="https://github.com/user-attachments/assets/730c8d29-632f-479f-a369-7e7fc7de7b03" />
+
 ##  Synthetic Data Vault Quality Report
+
 <img width="974" alt="image" src="https://github.com/user-attachments/assets/ff20a4fe-f25e-44b2-85cb-e411ca32a9d5" />
+
 ## Distribution Plot 
+
 <img width="1017" alt="image" src="https://github.com/user-attachments/assets/0e812bce-3d8d-42b8-8012-9c886d6f64ba" />
+
 ## Feature Relationship Plot
+
 <img width="1065" alt="image" src="https://github.com/user-attachments/assets/ad5f212a-ca44-4d20-81c5-e57839db2e7d" />
 
 ---
