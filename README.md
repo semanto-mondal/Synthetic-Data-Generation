@@ -18,7 +18,7 @@ This project aims to simplify and standardize the workflow of synthetic data gen
 ## ⚙️ Features
 
 ### ✅ Data Input
-- Upload any `.csv` tabular dataset.
+- Upload any `.csv` or `.xlsx` tabular dataset.
 - Automatically detects missing values.
 - User-friendly dropdown to handle missing data using:
   - `Mean`
