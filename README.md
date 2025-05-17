@@ -140,3 +140,8 @@ Compare individual or grouped feature distributions via:
 git clone https://github.com/your-username/synthetic-data-dashboard.git
 pip install -r requirements.txt
 streamlit run new_app.py
+```
+## Demo Video 
+
+https://github.com/user-attachments/assets/5e8edb83-87f0-4765-9860-7855d89d4aad
+
