@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+seaborn
+plotly
+scipy
+imbalanced-learn
+deepecho
+sdv
