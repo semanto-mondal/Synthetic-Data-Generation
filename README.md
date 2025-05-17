@@ -118,3 +118,9 @@ Compare individual or grouped feature distributions via:
 2. Here, most of the packages are pulled from package documentation pages
 3. The same type of methodologies can be applied to unstructured data generation, such as text, using LLMs 
 4. GenAI was used to develop the project 
+
+## How to Run 
+```bash
+git clone https://github.com/your-username/synthetic-data-dashboard.git
+pip install -r requirements.txt
+streamlit run new_app.py
