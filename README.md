@@ -36,6 +36,7 @@ This project aims to simplify and standardize the workflow of synthetic data gen
   - `Bootstrap Sampling`
   - `SMOTE Generation`
   - `Classification Data Generation (binary or multiclass)`
+  - `DeepEcho (SDV) Time Series Data`
 
 ### 📊 Statistical Comparison Tools
 Perform a comparison between the original and synthetic data using:
